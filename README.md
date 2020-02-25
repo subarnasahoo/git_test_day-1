@@ -1,2 +1,14 @@
-# git_test_day-1
-My first day of account @subarnasahoo
+* Hello Guys 
+# Subaran Sahoo
+* Python Devloper
+- Python
+- Django
+- Rest API
+- JavaScript
+- React
+- Html, Css, BootStrap
+
+# You Can Reach Me on-
+  * 8658823367
+  * subarnasahoo.ee@gmail.com
+  
